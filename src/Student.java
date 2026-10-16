@@ -1,3 +1,5 @@
+package Sept2026Git.src;
+
 public class Student {
     String name;
 
@@ -8,5 +10,8 @@ public class Student {
     }
 
     int rollNo;
+
     String schoolName;
+
+   
 }
